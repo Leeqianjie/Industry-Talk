@@ -18,6 +18,12 @@ For this assignment, my group was required to design an A4 poster based on the i
 
 The objective was to understand the relationship between technology and business and how ICT professionals can contribute meaningfully to the industry.
 
+### 📄 Industry Talk Poster
+
+Click the link below to view my Industry Talk assignment.
+
+[📥 View / Download Industry Talk Poster (PDF)](documents/Industry-Talk-Poster.pdf)
+
 ### Key Learning Outcomes
 
 - Gained exposure to the connection between technology and business.
